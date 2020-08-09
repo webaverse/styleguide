@@ -4,7 +4,7 @@ import 'antd/dist/antd.min.css'
 import { Button as AntButton } from 'antd';
 
 const Button = props => {
-    return <AntButton type="primary">Primary Button</AntButton>
+    return <AntButton {...props}>Primary Button</AntButton>
 }
 
 Button.propTypes = {
@@ -19,7 +19,7 @@ Button.propTypes = {
 Button.defaultProps = {
     onClick: event => console.log('button click', event),
     size: 'middle',
-    shape: 'circle',
+    shape: 'square',
     type: 'primary',
     disabled: false,
     loading: false
