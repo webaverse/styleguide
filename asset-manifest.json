@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/styleguide/static/css/main.7408fdbe.chunk.css",
-    "main.js": "/styleguide/build/main.3a78d1af.js",
+    "main.css": "/styleguide/static/css/main.d2bd82c0.chunk.css",
+    "main.js": "/styleguide/build/main.e61ba46c.js",
     "runtime-main.js": "/styleguide/build/bundle.39a4c501.js",
-    "static/css/2.246d11fe.chunk.css": "/styleguide/static/css/2.246d11fe.chunk.css",
-    "build/2.9ff7a911.js": "/styleguide/build/2.9ff7a911.js",
-    "build/2.9ff7a911.js.LICENSE.txt": "/styleguide/build/2.9ff7a911.js.LICENSE.txt",
+    "static/css/2.766fe1ae.chunk.css": "/styleguide/static/css/2.766fe1ae.chunk.css",
+    "build/2.c25c49d7.js": "/styleguide/build/2.c25c49d7.js",
+    "build/2.c25c49d7.js.LICENSE.txt": "/styleguide/build/2.c25c49d7.js.LICENSE.txt",
     "index.html": "/styleguide/index.html",
-    "precache-manifest.8c51eb6d2dcd1219554996b9b9f3ea4a.js": "/styleguide/precache-manifest.8c51eb6d2dcd1219554996b9b9f3ea4a.js",
+    "precache-manifest.674a781f978a62ca9166432677108341.js": "/styleguide/precache-manifest.674a781f978a62ca9166432677108341.js",
     "service-worker.js": "/styleguide/service-worker.js",
-    "static/css/2.246d11fe.chunk.css.map": "/styleguide/static/css/2.246d11fe.chunk.css.map",
-    "static/css/main.7408fdbe.chunk.css.map": "/styleguide/static/css/main.7408fdbe.chunk.css.map",
-    "static/media/Button.scss": "/styleguide/static/media/Mulish-Regular.e128ac44.ttf"
+    "static/css/2.766fe1ae.chunk.css.map": "/styleguide/static/css/2.766fe1ae.chunk.css.map",
+    "static/css/main.d2bd82c0.chunk.css.map": "/styleguide/static/css/main.d2bd82c0.chunk.css.map",
+    "static/media/500-normal.css": "/styleguide/static/media/mulish-vietnamese-500-normal.04d12c67.woff2"
   },
   "entrypoints": [
     "build/bundle.39a4c501.js",
-    "static/css/2.246d11fe.chunk.css",
-    "build/2.9ff7a911.js",
-    "static/css/main.7408fdbe.chunk.css",
-    "build/main.3a78d1af.js"
+    "static/css/2.766fe1ae.chunk.css",
+    "build/2.c25c49d7.js",
+    "static/css/main.d2bd82c0.chunk.css",
+    "build/main.e61ba46c.js"
   ]
 }
