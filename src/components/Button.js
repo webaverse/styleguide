@@ -2,14 +2,14 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Button as AntButton } from 'antd';
 import 'antd/dist/antd.min.css'
-import './Button.scss';
+import '../mulish-fonts/fonts.css'
 
 const styles = {
     button: {
         backgroundColor: '#42a5f5',
         color: 'white',
         border: 0,
-        borderRadius: 8
+        borderRadius: 8,
     }
 }
 

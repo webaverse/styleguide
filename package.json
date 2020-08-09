@@ -20,7 +20,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "styles": "npx styleguidist server",
-    "predeploy": "npx styleguidist build",
     "deploy": "gh-pages -d styleguide"
   },
   "eslintConfig": {
