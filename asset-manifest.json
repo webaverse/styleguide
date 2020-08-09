@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/styleguide/static/css/main.466d1b52.chunk.css",
-    "main.js": "/styleguide/build/main.e6c1e2a6.js",
+    "main.js": "/styleguide/build/main.d525a48a.js",
     "runtime-main.js": "/styleguide/build/bundle.e4600816.js",
     "static/css/2.246d11fe.chunk.css": "/styleguide/static/css/2.246d11fe.chunk.css",
-    "build/2.f6cf7e9b.js": "/styleguide/build/2.f6cf7e9b.js",
-    "build/2.f6cf7e9b.js.LICENSE.txt": "/styleguide/build/2.f6cf7e9b.js.LICENSE.txt",
+    "build/2.2466369d.js": "/styleguide/build/2.2466369d.js",
+    "build/2.2466369d.js.LICENSE.txt": "/styleguide/build/2.2466369d.js.LICENSE.txt",
     "index.html": "/styleguide/index.html",
-    "precache-manifest.92c73fc3ecca5e2978fbc3add41e217b.js": "/styleguide/precache-manifest.92c73fc3ecca5e2978fbc3add41e217b.js",
+    "precache-manifest.20bc0a1b0a42a165a9e073fdc20c6f7e.js": "/styleguide/precache-manifest.20bc0a1b0a42a165a9e073fdc20c6f7e.js",
     "service-worker.js": "/styleguide/service-worker.js",
     "static/css/2.246d11fe.chunk.css.map": "/styleguide/static/css/2.246d11fe.chunk.css.map",
     "static/css/main.466d1b52.chunk.css.map": "/styleguide/static/css/main.466d1b52.chunk.css.map",
@@ -16,8 +16,8 @@
   "entrypoints": [
     "build/bundle.e4600816.js",
     "static/css/2.246d11fe.chunk.css",
-    "build/2.f6cf7e9b.js",
+    "build/2.2466369d.js",
     "static/css/main.466d1b52.chunk.css",
-    "build/main.e6c1e2a6.js"
+    "build/main.d525a48a.js"
   ]
 }
