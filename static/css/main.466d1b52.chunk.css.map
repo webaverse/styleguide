@@ -1,0 +1,1 @@
+{"version":3,"sources":["fonts.css"],"names":[],"mappings":"AAAA,WACI,uBAAwB,CACxB,iBAAkB,CAClB,eAAgB,CAChB,iDACJ,CACA,KACI,uBACJ","file":"main.466d1b52.chunk.css","sourcesContent":["@font-face {\n    font-family: 'Open Sans';\n    font-style: normal;\n    font-weight: 400;\n    src: url('static/Mulish-Regular.ttf');\n}\nbody {\n    font-family: 'Open Sans';\n}"]}
