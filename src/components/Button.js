@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import 'antd/dist/antd.min.css'
 import { Button as AntButton } from 'antd';
+import 'antd/dist/antd.min.css'
 import './Button.scss';
 
 const styles = {

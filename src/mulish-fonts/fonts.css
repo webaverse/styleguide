@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./static/Mulish-Regular.ttf');
+}
+body {
+    font-family: 'Open Sans';
+}
