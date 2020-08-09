@@ -4,7 +4,7 @@ import 'antd/dist/antd.min.css'
 import { Button as AntButton } from 'antd';
 
 const Button = props => {
-    return <AntButton {...props}>Primary Button</AntButton>
+    return <AntButton {...props}>{props.text}</AntButton>
 }
 
 Button.propTypes = {
