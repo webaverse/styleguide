@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/styleguide/static/css/main.d2bd82c0.chunk.css",
-    "main.js": "/styleguide/build/main.e61ba46c.js",
+    "main.css": "/styleguide/static/css/main.a424bcf2.chunk.css",
+    "main.js": "/styleguide/build/main.e93f62a0.js",
     "runtime-main.js": "/styleguide/build/bundle.39a4c501.js",
-    "static/css/2.766fe1ae.chunk.css": "/styleguide/static/css/2.766fe1ae.chunk.css",
-    "build/2.c25c49d7.js": "/styleguide/build/2.c25c49d7.js",
-    "build/2.c25c49d7.js.LICENSE.txt": "/styleguide/build/2.c25c49d7.js.LICENSE.txt",
+    "static/css/2.246d11fe.chunk.css": "/styleguide/static/css/2.246d11fe.chunk.css",
+    "build/2.9ff7a911.js": "/styleguide/build/2.9ff7a911.js",
+    "build/2.9ff7a911.js.LICENSE.txt": "/styleguide/build/2.9ff7a911.js.LICENSE.txt",
     "index.html": "/styleguide/index.html",
-    "precache-manifest.674a781f978a62ca9166432677108341.js": "/styleguide/precache-manifest.674a781f978a62ca9166432677108341.js",
+    "precache-manifest.a66f28b780c7a373149d108b5cbeab21.js": "/styleguide/precache-manifest.a66f28b780c7a373149d108b5cbeab21.js",
     "service-worker.js": "/styleguide/service-worker.js",
-    "static/css/2.766fe1ae.chunk.css.map": "/styleguide/static/css/2.766fe1ae.chunk.css.map",
-    "static/css/main.d2bd82c0.chunk.css.map": "/styleguide/static/css/main.d2bd82c0.chunk.css.map",
-    "static/media/500-normal.css": "/styleguide/static/media/mulish-vietnamese-500-normal.04d12c67.woff2"
+    "static/css/2.246d11fe.chunk.css.map": "/styleguide/static/css/2.246d11fe.chunk.css.map",
+    "static/css/main.a424bcf2.chunk.css.map": "/styleguide/static/css/main.a424bcf2.chunk.css.map"
   },
   "entrypoints": [
     "build/bundle.39a4c501.js",
-    "static/css/2.766fe1ae.chunk.css",
-    "build/2.c25c49d7.js",
-    "static/css/main.d2bd82c0.chunk.css",
-    "build/main.e61ba46c.js"
+    "static/css/2.246d11fe.chunk.css",
+    "build/2.9ff7a911.js",
+    "static/css/main.a424bcf2.chunk.css",
+    "build/main.e93f62a0.js"
   ]
 }
