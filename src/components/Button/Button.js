@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Button as AntButton } from 'antd';
 import 'antd/dist/antd.min.css'
-import '../mulish-fonts/fonts.css'
+import '../../mulish-fonts/fonts.css'
 
 const styles = {
     button: {
